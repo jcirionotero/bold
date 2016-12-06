@@ -4,13 +4,16 @@ Bold Server, build on [LoopBack](http://loopback.io).
 
 ## Next steps:
 
-  Change directory to your app
-    $ cd bold
+Change directory to your app
 
-  Test
-    $ gulp test
+$ cd bold
 
-  Run the app
-    $ node . (Use the explorer - http://localhost:3000/explorer)
+Test
 
-**Note: Is a (semi) random response, you will try some times...
+$ gulp test
+
+Run the app
+
+$ node . (Use the explorer - http://localhost:3000/explorer)
+
+** Note: Is a (semi) random response, you will try some times...
