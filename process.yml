@@ -1,0 +1,8 @@
+apps:
+  - script: server/server.js
+    watch: ["client", "common", "conf", "server"]
+    ignore_watch: ["node_modules", "client/storage"]
+    env:
+      NODE_ENV: development
+    env_production:
+      NODE_ENV: production

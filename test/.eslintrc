@@ -1,0 +1,16 @@
+{
+  "env": {
+    "jasmine": true
+  },
+  "rules": {
+    "max-len": [
+      "error",
+      160
+    ],
+    "max-nested-callbacks": [
+      "error",
+      10
+    ],
+    "max-statements": "off"
+  }
+}

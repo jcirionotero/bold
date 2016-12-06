@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    "devsu"
+  ],
+  "extends": [
+    "plugin:devsu/loopback",
+    "plugin:devsu/es6",
+    "plugin:devsu/ocd"
+  ],
+  "rules": {
+    "comma-dangle": [
+      "error",
+      "never"
+    ],
+    "array-bracket-spacing": [
+      "error",
+      "never"
+    ],
+    "no-magic-numbers": "off"
+  }
+}
