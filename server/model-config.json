@@ -14,23 +14,23 @@
     ]
   },
   "AccessToken": {
-    "dataSource": "mongods",
+    "dataSource": "db",
     "public": false
   },
   "ACL": {
-    "dataSource": "mongods",
+    "dataSource": "db",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "mongods",
+    "dataSource": "db",
     "public": false
   },
   "Role": {
-    "dataSource": "mongods",
+    "dataSource": "db",
     "public": false
   },
   "Server": {
-    "dataSource": "mongods",
+    "dataSource": "db",
     "public": true
   }
 }
